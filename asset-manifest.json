@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/course-Firebase-CRUD/static/css/main.c93bd4cb.chunk.css",
+    "main.js": "/course-Firebase-CRUD/static/js/main.a41fe3c0.chunk.js",
+    "main.js.map": "/course-Firebase-CRUD/static/js/main.a41fe3c0.chunk.js.map",
+    "runtime-main.js": "/course-Firebase-CRUD/static/js/runtime-main.e361aa1f.js",
+    "runtime-main.js.map": "/course-Firebase-CRUD/static/js/runtime-main.e361aa1f.js.map",
+    "static/css/2.1b3213e8.chunk.css": "/course-Firebase-CRUD/static/css/2.1b3213e8.chunk.css",
+    "static/js/2.de5f8980.chunk.js": "/course-Firebase-CRUD/static/js/2.de5f8980.chunk.js",
+    "static/js/2.de5f8980.chunk.js.map": "/course-Firebase-CRUD/static/js/2.de5f8980.chunk.js.map",
+    "static/js/3.6365a684.chunk.js": "/course-Firebase-CRUD/static/js/3.6365a684.chunk.js",
+    "static/js/3.6365a684.chunk.js.map": "/course-Firebase-CRUD/static/js/3.6365a684.chunk.js.map",
+    "index.html": "/course-Firebase-CRUD/index.html",
+    "static/css/2.1b3213e8.chunk.css.map": "/course-Firebase-CRUD/static/css/2.1b3213e8.chunk.css.map",
+    "static/css/main.c93bd4cb.chunk.css.map": "/course-Firebase-CRUD/static/css/main.c93bd4cb.chunk.css.map",
+    "static/js/2.de5f8980.chunk.js.LICENSE.txt": "/course-Firebase-CRUD/static/js/2.de5f8980.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/course-Firebase-CRUD/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e361aa1f.js",
+    "static/css/2.1b3213e8.chunk.css",
+    "static/js/2.de5f8980.chunk.js",
+    "static/css/main.c93bd4cb.chunk.css",
+    "static/js/main.a41fe3c0.chunk.js"
+  ]
+}
